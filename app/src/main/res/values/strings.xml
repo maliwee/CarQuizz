@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Coursework1</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+
+    <string name="tv_title_Hint">Guessing Game</string>
+    <string name="tvLabelHint">Enter Your Guess</string>
+    <string name="btn_submit_Hint">Submit</string>
+    <string name="btn_next_Hint">Next</string>
+    <string name="result_correct_hint">CORRECT!</string>
+    <string name="result_incorrect_hint">WRONG!</string>
+
+    <string-array name="Brands">
+        <item> </item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Ford</item>
+    </string-array>
+</resources>
